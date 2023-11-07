@@ -1,0 +1,32 @@
+[
+    {
+        "dia": 1,
+        "mes": 11,
+        "ano": 2023,
+        "positiva": 25,
+        "empate": 0,
+        "negativa": 0,
+        "valor_inicial": 100,
+        "valor_dia": 200,
+        "taxa_op": 25,
+        "irrf": 10,
+        "patrimonio": 10000,
+        "acertividade": 95,
+        "pontos": 35
+    },
+    {
+        "dia": 1,
+        "mes": 11,
+        "ano": 2023,
+        "positiva": 30,
+        "empate": 0,
+        "negativa": 0,
+        "valor_inicial": 100,
+        "valor_dia": 200,
+        "taxa_op": 25,
+        "irrf": 10,
+        "patrimonio": 10000,
+        "acertividade": 95,
+        "pontos": 35
+    }
+]
