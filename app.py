@@ -1,8 +1,6 @@
 from tkinter import *
 from datetime import datetime, timedelta
 import login, dados
-# import plotly.express as pw
-# import pandas as pd
 
 janela_trade = Tk()
 janela_trade.title("BALANÇO TRADING JOELSON")
@@ -16,10 +14,6 @@ dados_dias_uteis = {
 
 patrimonio_atual = 100.00
 
-# def grafico():
-#     datas = [dados_dias_uteis]
-#     valores = [patrimonio_atual]
-#     df = pd.DataFrame({"Data": datas, "Valor": valores})
 
 def calcular_patrimonio():
     global patrimonio_atual
